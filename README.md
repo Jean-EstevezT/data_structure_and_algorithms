@@ -3,7 +3,7 @@
 > **Guía completa e incremental** para dominar estructuras de datos y algoritmos, desde los fundamentos matemáticos hasta técnicas avanzadas de programación competitiva y preparación para entrevistas FAANG.
 
 ![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
-![Topics](https://img.shields.io/badge/Topics-269-blue?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-290-blue?style=for-the-badge)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20to%20Expert-gradient?style=for-the-badge)
 
 ---
@@ -442,20 +442,20 @@ graph TD
 
 | Bloque | Nombre | Temas | Nivel |
 |--------|--------|-------|-------|
-| 0 | Fundamentos Matemáticos | 15 | 🟢 |
-| 1 | Fundamentos de Programación | 15 | 🟢 |
-| 2 | Estructuras Lineales | 13 | 🟢🟡 |
-| 3 | Estructuras No Lineales | 21 | 🟡🔴 |
+| 0 | Fundamentos Matemáticos | 17 | 🟢 |
+| 1 | Fundamentos de Programación | 17 | 🟢 |
+| 2 | Estructuras Lineales | 14 | 🟢🟡 |
+| 3 | Estructuras No Lineales | 23 | 🟡🔴 |
 | 4 | Hash y Estructuras Avanzadas | 18 | 🟡🔴 |
-| 5 | Ordenamiento y Búsqueda | 22 | 🟢🟡 |
-| 6 | Paradigmas de Algoritmos | 23 | 🟡🔴⚫ |
-| 7 | Algoritmos de Grafos | 30 | 🟡🔴⚫ |
+| 5 | Ordenamiento y Búsqueda | 23 | 🟢🟡 |
+| 6 | Paradigmas de Algoritmos | 25 | 🟡🔴⚫ |
+| 7 | Algoritmos de Grafos | 33 | 🟡🔴⚫ |
 | 8 | Algoritmos de Strings | 19 | 🟡🔴⚫ |
-| 9 | Matemáticas Avanzadas | 26 | 🔴⚫ |
-| 10 | Técnicas Avanzadas | 21 | 🔴⚫ |
-| 11 | Problemas Clásicos | 23 | 🟡🔴 |
-| 12 | Preparación Entrevistas | 23 | 🔴 |
-| **Total** | | **269** | |
+| 9 | Matemáticas Avanzadas | 28 | 🔴⚫ |
+| 10 | Técnicas Avanzadas | 23 | 🔴⚫ |
+| 11 | Problemas Clásicos | 25 | 🟡🔴 |
+| 12 | Preparación Entrevistas | 25 | 🔴 |
+| **Total** | | **290** | |
 
 ---
 
@@ -554,6 +554,6 @@ Este proyecto está bajo la licencia MIT. Siéntete libre de usar, modificar y d
 
 *Made with ❤️ for the dev community*
 
-**Total de temas: 269 | Bloques: 13 | De principiante a experto**
+**Total de temas: 290 | Bloques: 13 | De principiante a experto**
 
 </div>
