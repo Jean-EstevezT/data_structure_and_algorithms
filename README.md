@@ -77,7 +77,7 @@ graph TD
 
 | # | Tema | Descripción | Estado |
 |---|------|-------------|--------|
-| 01 | [Aritmética Básica](./Roadmap/00-Fundamentos-Matematicos/01-Aritmetica-Basica/) | Operaciones, divisibilidad, resto, propiedades | ⬜ |
+| 01 | [Aritmética Básica](./Roadmap/00-Fundamentos-Matematicos/01-Aritmetica-Basica/) | Operaciones, divisibilidad, resto, propiedades | ✅ |
 | 02 | [Álgebra](./Roadmap/00-Fundamentos-Matematicos/02-Algebra/) | Ecuaciones, inecuaciones, polinomios | ⬜ |
 | 03 | [Teoría de Números](./Roadmap/00-Fundamentos-Matematicos/03-Teoria-de-Numeros/) | Primos, factorización, divisores | ⬜ |
 | 04 | [Combinatoria](./Roadmap/00-Fundamentos-Matematicos/04-Combinatoria/) | Permutaciones, combinaciones, principio de conteo | ⬜ |
@@ -512,13 +512,6 @@ graph LR
 
 ## 🛠️ Recursos Recomendados
 
-### Libros
-- 📖 **Introduction to Algorithms (CLRS)** - La biblia de algoritmos
-- 📖 **Competitive Programming 3 & 4** - Felix Halim & Steven Halim
-- 📖 **Cracking the Coding Interview** - Gayle McDowell
-- 📖 **Algorithm Design Manual** - Steven Skiena
-- 📖 **Grokking Algorithms** - Aditya Bhargava (principiantes)
-
 ### Plataformas de Práctica
 | Plataforma | Enfoque | Nivel |
 |------------|---------|-------|
@@ -535,12 +528,7 @@ graph LR
 - 🎨 [Algorithm Visualizer](https://algorithm-visualizer.org)
 - 🎨 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
 
-### Cursos Recomendados
-- 🎓 **MIT 6.006** - Introduction to Algorithms
-- 🎓 **Stanford Algorithms** - Coursera
-- 🎓 **Princeton Algorithms** - Coursera
 
----
 
 ## 📄 Licencia
 
